@@ -42,7 +42,7 @@
     "processedHistoryMessages": [
       {
         "key": {
-          "remoteJid": "6287786870277@s.whatsapp.net",
+          "remoteJid": "6281288837782@s.whatsapp.net",
           "fromMe": true,
           "id": "9900283E1581AD770240704F69350E27"
         },
@@ -58,7 +58,7 @@
       },
       {
         "key": {
-          "remoteJid": "6287786870277@s.whatsapp.net",
+          "remoteJid": "6281288837782@s.whatsapp.net",
           "fromMe": true,
           "id": "0581A61A52BE753373C4FA31D9EF717C"
         },
@@ -76,13 +76,13 @@
       "deviceSignature": "j+ZAUMYPqj7eDqK/ChFMgvdF1eEZ8Vgeaal/2kZUVD0t4cWVSZrw0ls4F+8m2i+Y1dEUAvIbmzncUb10rnauBw=="
     },
     "me": {
-      "id": "6287786870277:1@s.whatsapp.net",
+      "id": "6281288837782:1@s.whatsapp.net",
       "name": "Chainner Bot"
     },
     "signalIdentities": [
       {
         "identifier": {
-          "name": "6287786870277:1@s.whatsapp.net",
+          "name": "6281288837782:1@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
